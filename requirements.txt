@@ -1,0 +1,7 @@
+yfinance
+investpy
+pandas
+numpy
+plotly
+seaborn
+fundamentus
