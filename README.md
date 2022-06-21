@@ -1,2 +1,2 @@
-# dashboard_mercado
+# DashBoard Mercado
 App Projeto Final Curso Streamlit
